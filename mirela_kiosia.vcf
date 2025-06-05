@@ -1,13 +1,25 @@
 BEGIN:VCARD
 VERSION:4.0
-N:Kiosia;Mirela Eleni;;;
-FN:Mirela Eleni Kiosia
+KIND:individual
+REV:2025-03-14
+
+N:Morgan;Eleni;;;
+FN:Eleni Morgan
+NICKNAME:E. Mprgan
+
 TITLE:Strategic Finance & Analysis
-EMAIL;TYPE=work:mk@lwgf.us
-EMAIL;TYPE=home:mk4morgan@gmail.com
-TEL;TYPE=work,voice:+1-203-818-0100
-URL;MEDIATYPE=text/html:https://captaingreek.com
-ITEM1.X-ORG:CaptainGreek (Chief Financial Officer — Strategic Planning & Analysis)
-ITEM2.X-ORG:Lakewood Group of Companies (Corporate Financial Controller)
-ITEM3.X-ORG:MK4 Morgan Strategic Advisory (Founder & Managing Principal)
+ORG:CaptainGreek
+ROLE:CFO — Strategic Planning & Analysis
+
+EMAIL;TYPE=work;PREF=1:mk@lwgf.us
+EMAIL;TYPE=home;PREF=2:mk4morgan@gmail.com
+
+TEL;TYPE=work,cell,voice;VALUE=tel:+1-203-818-0100
+
+URL:https://captaingreek.com
+
+RELATED;TYPE=work;VALUE=text:Lakewood Group of Companies — Financial Comptroller
+RELATED;TYPE=work;VALUE=text:MK Morgan Strategic Advisory — Managing Principal
+
+NOTE:Also Financial Comptroller at Lakewood Group and Managing Principal at MK Morgan Strategic Advisory.
 END:VCARD
